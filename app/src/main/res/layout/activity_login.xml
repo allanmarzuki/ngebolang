@@ -65,6 +65,7 @@
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="@+id/imageView" />
 
+
     <EditText
         android:layout_width="269dp"
         android:layout_height="55dp"
