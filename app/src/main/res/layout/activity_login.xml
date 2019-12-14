@@ -64,6 +64,7 @@
         app:layout_constraintEnd_toEndOf="@+id/imageView"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="@+id/imageView" />
+    //alan
 
     <EditText
         android:layout_width="269dp"
